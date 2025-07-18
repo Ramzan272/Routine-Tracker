@@ -1,4 +1,3 @@
-
 # 📱 Routine Tracker App 
 
 A beautifully designed habit-tracking mobile application built with Flutter and powered by ObjectBox.
